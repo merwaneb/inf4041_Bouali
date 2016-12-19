@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rodrigue/Downloads/B_app/C:\\Users\\Fred\\AndroidStudioProjects\\B_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "/home/rodrigue/Downloads/B_app/C:\\Users\\Fred\\AndroidStudioProjects\\B_app\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "/home/rodrigue/Downloads/B_app/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/rodrigue/Downloads/B_app/app/src/main/res/menu/menu_main.xml"
+    }
+]
